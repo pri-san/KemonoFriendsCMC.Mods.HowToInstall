@@ -39,7 +39,7 @@
 
 * かばんちゃん操作MOD
   * https://github.com/pri-san/KemonoFriendsCMC.Mods.KabanMode/releases
-  * プレイヤーをかばんちゃんに置き換えるMOD
+  * サーバルちゃんをかばんちゃんに置き換えるMOD
 * MOD使用中表示MOD
   *  https://github.com/pri-san/KemonoFriendsCMC.Mods.ShowUsingMod/releases
   *  画面右下に`MOD(Addon)`という赤色の表示を追加する
