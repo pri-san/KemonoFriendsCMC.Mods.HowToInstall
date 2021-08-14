@@ -35,5 +35,6 @@
     * 展開後の構造が`(ゲーム本体のルートフォルダ)\BepInEx\plugins\ConfigurationManager.dll`となるようにする
 
 ## 連絡先
-Twitter: @Puri_san_P
-e-mail: pri.san.pg@gmail.com
+
+* Twitter: @Puri_san_P
+* e-mail: pri.san.pg@gmail.com
