@@ -35,6 +35,16 @@
   * `(ゲーム本体のルートフォルダ)`にダウンロードしたzipファイルの内容を展開する
     * 展開後の構造が`(ゲーム本体のルートフォルダ)\BepInEx\plugins\ConfigurationManager.dll`となるようにする
 
+## pri-sanが公開しているMOD一覧
+
+* かばんちゃん操作MOD
+  * https://github.com/pri-san/KemonoFriendsCMC.Mods.KabanMode/releases
+  * プレイヤーをかばんちゃんに置き換えるMOD
+* MOD使用中表示MOD
+  *  https://github.com/pri-san/KemonoFriendsCMC.Mods.ShowUsingMod/releases
+  *  画面右下に`MOD(Addon)`という赤色の表示を追加する
+    * MOD利用であることを明示的にするMOD
+
 ## 連絡先
 
 * Twitter: @Puri_san_P
