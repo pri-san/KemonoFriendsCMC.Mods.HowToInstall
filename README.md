@@ -42,8 +42,8 @@
   * サーバルちゃんをかばんちゃんに置き換えるMOD
 * MOD使用中表示MOD
   *  https://github.com/pri-san/KemonoFriendsCMC.Mods.ShowUsingMod/releases
-  *  画面右下に`MOD(Addon)`という赤色の表示を追加する
-    * MOD利用であることを明示的にするMOD
+  *  画面右下に`MOD(Addon)`という赤色の表示を追加することで、MOD利用であることを明示的にするMOD
+    * 画面を見ただけでMODを利用しているかどうか見分けがつくようにすることが目的
 
 ## 連絡先
 
