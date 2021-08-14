@@ -17,7 +17,8 @@
   * セーブファイル
     * `%UserProfile%\AppData\LocalLow\KirisameZensen\KemonoFriendsCMC\KirisameZensen.KemonoFriendsCMC.savedata.json`をコピーまたは圧縮等
 2. マネージコードストリッピングされたアセンブリをされていないアセンブリに置き換える
-  * `(ゲーム本体のルートフォルダ)\KemonoFriendsCMC_Data\Managed`にUnityManagedDllFull.zipの内容(zip内のUnityManagedDllFullフォルダ配下)を展開する
+  * https://github.com/pri-san/KemonoFriendsCMC.Mods.HowToInstall/releases から最新バージョンのUnityManagedDllFull.zipをダウンロードする
+  * `(ゲーム本体のルートフォルダ)\KemonoFriendsCMC_Data\Managed`にダウンロードしたzipファイルの内容(zip内のUnityManagedDllFullフォルダ配下)を展開する
     * 上書き確認のダイアログは全て置き換えるを選択する
     * ゲーム本体のルートフォルダ: `KemonoFriendsCMC.exe`が配置されているフォルダ
 3. BepInExを配置する
