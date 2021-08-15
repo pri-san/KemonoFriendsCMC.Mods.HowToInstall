@@ -20,7 +20,7 @@
 ## 手順
 
 1. バックアップを作成する
-  * ゲーム本体KemonoFriendsCMC\KirisameZensen.KemonoFriendsCMC.savedata.json
+  * ゲーム本体
     * 同一バージョンのゲーム本体インストーラを使用して別フォルダに展開、または既存のフォルダをコピーまたは圧縮等
   * セーブファイル
     * `%UserProfile%\AppData\LocalLow\KirisameZensen\KemonoFriendsCMC\KirisameZensen.KemonoFriendsCMC.savedata.json`をコピーまたは圧縮等
