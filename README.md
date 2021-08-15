@@ -1,6 +1,14 @@
 # KemonoFriendsCMC.Mods.HowToInstall
 けものフレンズ Cellien May Cry（以下「ゲーム本体」とする）の MOD対応化の手順
 
+## ゲーム本体の情報
+* 製作者様
+  * 坂本龍様
+    * 連絡先はゲーム本体付属の説明書を参照してください
+* ダウンロードURL
+  * ふりーむ！：https://www.freem.ne.jp/win/game/25092
+  * フリーゲーム夢現：https://freegame-mugen.jp/action/game_9372.html
+
 ## 前提条件
 
 * OS
